@@ -37,6 +37,3 @@ This repository tracks my hands-on journey with Java—from basic syntax and mat
 * **Built-in Functions:** Efficient searching, updating, and removing items using methods like `.removeIf()`, `.forEach()`, and Stream API methods (`.filter()`, `.findFirst()`).
 * **Console Applications:** Complete **C**reate, **R**ead, **U**pdate, and **D**elete implementations.
 
----
-
-m/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
