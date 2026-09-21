@@ -1,6 +1,6 @@
-# 🚀 Core Java & Problem-Solving Mastery (90+ Programs)
+# 🚀 Core Java & Problem-Solving Mastery (70+ Programs)
 
-Welcome to my Java learning and practice repository! This repository contains **over 90 Java programs** built while mastering Core Java concepts, logic building, Object-Oriented Programming (OOP), and building interactive console-based applications.
+Welcome to my Java learning and practice repository! This repository contains **over 70 Java programs** built while mastering Core Java concepts, logic building, Object-Oriented Programming (OOP), and building interactive console-based applications.
 
 ---
 
